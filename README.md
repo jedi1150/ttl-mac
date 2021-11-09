@@ -1,6 +1,6 @@
 # Change TTL
 
-Put ttl and ttl64 files into home dir.
+Put ttl and ttl64 files into your home dir.
 
 To change ttl open terminal and type `sh ttl` then enter your password.<br>
 To set default ttl (64) type `sh ttl64` then enter your password.
